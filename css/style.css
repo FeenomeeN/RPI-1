@@ -322,10 +322,10 @@ li  {
     letter-spacing: 0.15em;
     text-align: center; 
     margin: 0px;
-    width: 280px;
     height: 60px;
     cursor: pointer;
     padding-left: 339px;
+    display: flex;
 }
 
 .input {
